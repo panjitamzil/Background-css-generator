@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	background-image: linear-gradient(to right, #5155ae, #727272); 
+}
+
+h1, h2, p {
+	text-align: center;
+	font-family: 'Niramit', sans-serif;
+}
+
+button {
+	margin-top: 15px;
+}
